@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-be-site_markup",
+    "description": "Control panel module \"Visual editor\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "GM Panel",
+        "module",
+        "editor"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-be-site_markup",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.be.site_markup",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
