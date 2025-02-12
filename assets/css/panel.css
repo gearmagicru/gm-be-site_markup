@@ -1,0 +1,68 @@
+/*!
+ * Панель визаульного редактора (Panel).
+ * 
+ * Модуль "Визуальный редактор".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+ /**
+ * Кнопка панели инструментов.
+ */
+.x-btn.gm-site_markup__btn {
+    background: #e2e2e2;
+}
+.x-btn.gm-site_markup__btn.x-btn-pressed {
+    background-image: none;
+    background: #f5f5f5;
+}
+.x-btn.gm-site_markup__btn.x-btn-over {
+    background: #f5f5f5;
+}
+.x-btn.gm-site_markup__btn.x-btn-disabled {
+    background: #e8e8e8;
+}
+
+/**
+ * Панель инструментов.
+ */
+ .gm-site_markup__toolbar {
+    background:#e7e7e7;
+ }
+/* Значок "Включить разметку сраниц" */
+.gm-site_markup__icon-lighon_large,
+.gm-site_markup__icon-lighon_medium,
+.gm-site_markup__icon-lighon { background-image: url("../images/icon-lighton.svg"); }
+.gm-site_markup__icon-lighon_small { background-image: url("../images/icon-lighton_small.svg"); }
+/* Значок "Выключить разметку сраниц" */
+.gm-site_markup__icon-lighoff_large,
+.gm-site_markup__icon-lighoff_medium,
+.gm-site_markup__icon-lighoff { background-image: url("../images/icon-lightoff.svg"); }
+.gm-site_markup__icon-lighoff_small { background-image: url("../images/icon-lightoff_small.svg"); }
+/* Значок "Статья" */
+.gm-site_markup__icon-article { background-image: url("../images/icon-article.svg"); }
+.gm-site_markup__icon-article-add { background-image: url("../images/icon-article-add.svg"); }
+.gm-site_markup__icon-article-delete { background-image: url("../images/icon-article-delete.svg"); }
+.gm-site_markup__icon-article-all { background-image: url("../images/icon-article-all.svg"); }
+/* Значок "Категория статьи" */
+.gm-site_markup__icon-acategory { background-image: url("../images/icon-acategory.svg"); }
+.gm-site_markup__icon-acategory-add { background-image: url("../images/icon-acategory-add.svg"); }
+.gm-site_markup__icon-acategory-delete { background-image: url("../images/icon-acategory-delete.svg"); }
+.gm-site_markup__icon-acategory-all { background-image: url("../images/icon-acategory-all.svg"); }
+/* Значок "Редактировать" */
+.gm-site_markup__icon-edit { background-image: url("../images/icon-item-edit.svg"); }
+/* Значок "Обновить" */
+.gm-site_markup__icon-refresh { background-image: url("../images/icon-refresh.svg"); }
+.gm-site_markup__icon-back { background-image: url("../images/icon-back.svg"); }
+.gm-site_markup__icon-forward { background-image: url("../images/icon-forward.svg"); }
+/* Значок "Помощь" */
+.gm-site_markup__icon-help { background-image: url("../images/icon-help.svg"); }
+.gm-site_markup__icon-seo { background-image: url("../images/icon-seo.svg"); }
+/* Значок "Компоненты" */
+.gm-site_markup__icon-components { background-image: url("../images/icon-components.svg"); }
+/* Значок "Фрагменты" */
+.gm-site_markup__icon-blocks { background-image: url("../images/icon-blocks.svg"); }
+/* Значок "Бланк" */
+.gm-site_markup__icon-blank { background-image: url("../images/icon-blank.svg"); }
