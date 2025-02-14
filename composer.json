@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-be-site_markup",
-    "description": "Control panel module \"Visual editor\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "editor"
-    ],
+    "description": "Control Panel module \"Visual editor\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "editor"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-site_markup",
     "type": "component",
     "license": "MIT",
