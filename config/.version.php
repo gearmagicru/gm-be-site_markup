@@ -12,8 +12,8 @@
 return [
     'name'        => 'Visual editor',
     'description' => 'Website page builder',
-    'version'     => '1.0',
-    'versionDate' => '20-12-2017',
+    'version'     => '1.0.1',
+    'versionDate' => '07-04-2025',
     'author'      => 'GearMagic',
     'authorUrl'   => 'https://gearmagic.ru',
     'email'       => 'anton.tivonenko@gmail.com',
